@@ -9,4 +9,6 @@ This is the simple visual novel game made using Unity Game Engine.<br/>
 
 <h1>Credits</h1>
 Game Programmer: Ritxman<br/>
-Game Designer: Asia Soenargo
+Game Designer: Asia Soenargo<br/><br/>
+
+Copyright © 2019-2021 Alleyway's Team. All Rights Reserved
